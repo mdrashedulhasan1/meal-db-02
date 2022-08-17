@@ -1,0 +1,16 @@
+.meal-container{
+    padding: 20px;
+}
+.meal-container img{
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+}
+button{
+    padding: 10px 20px;
+    border: 1px solid lightgray;
+    background-color: blueviolet;
+    border-radius: 5px;
+    color: white;
+    font-weight: 800;
+}
